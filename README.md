@@ -5,7 +5,7 @@ This helps us to maintain data easily.
 
 **Database:**
 create a databse with name as anime.
-import the anime.sql
+Import the anime.sql
 
 **Opening the website:**
 run 
